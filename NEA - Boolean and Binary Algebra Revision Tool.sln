@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29326.143
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NEA - Boolean and Binary Algebra Revision Tool", "NEA - Boolean and Binary Algebra Revision Tool.csproj", "{10E8606A-1E33-452C-BD3B-A714638A9AC9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{10E8606A-1E33-452C-BD3B-A714638A9AC9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{10E8606A-1E33-452C-BD3B-A714638A9AC9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{10E8606A-1E33-452C-BD3B-A714638A9AC9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{10E8606A-1E33-452C-BD3B-A714638A9AC9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A2A877E4-D05D-4F3B-AF0E-CC6285BE9E7D}
+	EndGlobalSection
+EndGlobal
